@@ -1,2 +1,1 @@
-# dotfiles
-dotfiles for github codespaces
+# random dotfiles
